@@ -2,10 +2,12 @@
 Useful and interesting cryptocurrency websites and resources.
 
 # News
+* [Blockworks](https://blockworks.co/) - Blockworks is a financial media brand that delivers breaking news and premium insights about digital assets to millions of investors.
 * [CoinDesk](https://www.coindesk.com/) - CoinDesk is an integrated platform for news, events, data & research for the next generation of investing and the future of money.
 * [Cointelegraph](https://cointelegraph.com/) - Cointelegraph is the leading independent digital media resource covering a wide range of news on blockchain technology, crypto assets, and emerging fintech trends.
 * [CryptoPanic](https://cryptopanic.com/) - CryptoPanic is a news aggregator platform indicating impact on price and market for traders and cryptocurrency enthusiasts.
 * [CryptoSlate](https://cryptoslate.com/) - CryptoSlate is only an informational website that provides news about coins, blockchain companies, blockchain products and blockchain events.
+* [The Daily Hodl](https://dailyhodl.com/) - Cryptocurrency news and analysis, covering Bitcoin, Ethereum, Ripple, XRP, altcoins and blockchain technology.
 
 # Prices, charts, market caps, etc
 * [COIN360](https://coin360.com/) - COIN360 is a cryptocurrency and crypto exchange live data aggregator.

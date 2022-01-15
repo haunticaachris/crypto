@@ -2,6 +2,7 @@
 Useful and interesting cryptocurrency websites and resources.
 
 # News
+* [Bitcoin Magazine](https://bitcoinmagazine.com/) - Bitcoin Magazine is the oldest and most established source of news, information and expert commentary on Bitcoin, its underlying blockchain technology and the industry that has been built up around it.
 * [Blockworks](https://blockworks.co/) - Blockworks is a financial media brand that delivers breaking news and premium insights about digital assets to millions of investors.
 * [CoinDesk](https://www.coindesk.com/) - CoinDesk is an integrated platform for news, events, data & research for the next generation of investing and the future of money.
 * [Cointelegraph](https://cointelegraph.com/) - Cointelegraph is the leading independent digital media resource covering a wide range of news on blockchain technology, crypto assets, and emerging fintech trends.

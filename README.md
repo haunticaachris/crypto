@@ -37,6 +37,7 @@ Which ones are people actually paying to use?
 
 # Dev Tools
 * [Remix](https://remix.ethereum.org/) - Remix IDE allows developing, deploying and administering smart contracts for Ethereum like blockchains.
+* [Solidity documentation](https://docs.soliditylang.org/) - Solidity is an object-oriented, high-level language for implementing smart contracts.
 
 # Other
 * [CryptoTrader.Tax](https://cryptotrader.tax/) - Cryptocurrency tax software built to save you time and maximize your refund.

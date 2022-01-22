@@ -8,6 +8,7 @@ Useful and interesting cryptocurrency websites and resources.
 * [Cointelegraph](https://cointelegraph.com/) - Cointelegraph is the leading independent digital media resource covering a wide range of news on blockchain technology, crypto assets, and emerging fintech trends.
 * [Crypto Briefing](https://cryptobriefing.com/) - Advocating for Bitcoin, Ethereum and the future of finance.
 * [CryptoPanic](https://cryptopanic.com/) - CryptoPanic is a news aggregator platform indicating impact on price and market for traders and cryptocurrency enthusiasts.
+* [CryptoPotato](https://cryptopotato.com/) - CryptoPotato is one of the world’s leading information sources for crypto investors.
 * [CryptoSlate](https://cryptoslate.com/) - CryptoSlate is only an informational website that provides news about coins, blockchain companies, blockchain products and blockchain events.
 * [The Daily Hodl](https://dailyhodl.com/) - Cryptocurrency news and analysis, covering Bitcoin, Ethereum, Ripple, XRP, altcoins and blockchain technology.
 

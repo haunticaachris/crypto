@@ -13,6 +13,7 @@ Useful and interesting cryptocurrency websites and resources.
 * [Live Bitcoin News](https://www.livebitcoinnews.com/) - Live Bitcoin News is a global, market leading news portal designed to offer unique, cutting-edge and relevant news and information in the crypto currency space.
 * [The Block](https://www.theblockcrypto.com/) - The Block is the leading research, analysis and news brand in the digital asset space.
 * [The Daily Hodl](https://dailyhodl.com/) - Cryptocurrency news and analysis, covering Bitcoin, Ethereum, Ripple, XRP, altcoins and blockchain technology.
+* [Trustnodes](https://www.trustnodes.com/) - Trustnodes is widely recognized for its high quality reporting on digital finance, trusted to provide accurate, impartial, independent and fair coverage of developments in a fast moving and highly innovative space.
 
 # Prices, charts, market caps, etc
 * [COIN360](https://coin360.com/) - COIN360 is a cryptocurrency and crypto exchange live data aggregator.

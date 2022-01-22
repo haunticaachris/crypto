@@ -10,6 +10,7 @@ Useful and interesting cryptocurrency websites and resources.
 * [CryptoPanic](https://cryptopanic.com/) - CryptoPanic is a news aggregator platform indicating impact on price and market for traders and cryptocurrency enthusiasts.
 * [CryptoPotato](https://cryptopotato.com/) - CryptoPotato is one of the world’s leading information sources for crypto investors.
 * [CryptoSlate](https://cryptoslate.com/) - CryptoSlate is only an informational website that provides news about coins, blockchain companies, blockchain products and blockchain events.
+* [The Block](https://www.theblockcrypto.com/) - The Block is the leading research, analysis and news brand in the digital asset space.
 * [The Daily Hodl](https://dailyhodl.com/) - Cryptocurrency news and analysis, covering Bitcoin, Ethereum, Ripple, XRP, altcoins and blockchain technology.
 
 # Prices, charts, market caps, etc

@@ -3,6 +3,7 @@ Useful and interesting cryptocurrency websites and resources.
 
 # Decentralized exchanges
 * [PancakeSwap](https://pancakeswap.finance/) - PancakeSwap is a decentralized exchange for swapping BEP20 tokens on Binance Smart Chain.
+* [SushiSwap](https://sushi.com/) - Swap, earn, stack yields, lend, borrow, leverage all on one decentralized, community driven platform.
 * [Uniswap v3](https://app.uniswap.org/#/swap?chain=mainnet) - Swap, earn, and build on the leading decentralized crypto trading protocol.
 
 # Dev Tools

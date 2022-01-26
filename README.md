@@ -1,6 +1,22 @@
 # crypto
 Useful and interesting cryptocurrency websites and resources.
 
+# Decentralized exchanges
+* [Uniswap v3](https://app.uniswap.org/#/swap?chain=mainnet) - Swap, earn, and build on the leading decentralized crypto trading protocol.
+
+# Dev Tools
+* [Remix](https://remix.ethereum.org/) - Remix IDE allows developing, deploying and administering smart contracts for Ethereum like blockchains.
+* [Solidity documentation](https://docs.soliditylang.org/) - Solidity is an object-oriented, high-level language for implementing smart contracts.
+
+# Exchanges
+* [Binance.US](https://www.binance.us/en/home) - Trade over 50 cryptocurrencies with low trading fees.
+* [Coinbase Pro](https://pro.coinbase.com/) - Coinbase Pro offers individuals the ability to trade a variety of digital assets on a secure, insurance backed platform.
+* [Crypto.com](https://crypto.com/us/) - Buy and sell 250+ cryptocurrencies with 20+ fiat currencies using bank transfers or your credit/debit card.
+* [FTX.US](https://ftx.us/) - FTX US Institutional Grade Cryptocurrency Exchange, built by traders for traders.
+* [Gemini](https://www.gemini.com/) - Gemini is a simple, elegant, and secure platform to build your crypto portfolio.
+* [Kraken](https://www.kraken.com/en-us/) - A streamlined bitcoin exchange for newcomers and experts alike.
+* [KuCoin](https://www.kucoin.com/) - KuCoin is a secure cryptocurrency exchange that makes it easier to buy, sell, and store cryptocurrencies like BTC, ETH, KCS, SHIB, DOGE, etc.
+
 # News
 * [Bitcoin Magazine](https://bitcoinmagazine.com/) - Bitcoin Magazine is the oldest and most established source of news, information and expert commentary on Bitcoin, its underlying blockchain technology and the industry that has been built up around it.
 * [Bitcoin.com](https://news.bitcoin.com/) - Bitcoin.com news, markets info and education.
@@ -15,6 +31,18 @@ Useful and interesting cryptocurrency websites and resources.
 * [The Block](https://www.theblockcrypto.com/) - The Block is the leading research, analysis and news brand in the digital asset space.
 * [The Daily Hodl](https://dailyhodl.com/) - Cryptocurrency news and analysis, covering Bitcoin, Ethereum, Ripple, XRP, altcoins and blockchain technology.
 * [Trustnodes](https://www.trustnodes.com/) - Trustnodes is widely recognized for its high quality reporting on digital finance, trusted to provide accurate, impartial, independent and fair coverage of developments in a fast moving and highly innovative space.
+
+# NFT's
+* [icy.tools](https://icy.tools/) - Discover, track, and analyze trending NFTs with real time floor and volume data. Deep dive with historical charts, trend data, and full transaction history.
+* [NFTCalendar](https://nftcalendar.io/) - NFTCalendar is the first release and event calendar for the growing Non-Fungible Token industry.
+* [rarity.tools](https://rarity.tools/) - NFTs ranked and sorted by rarity. See the rarest CryptoPunks, Bored Ape Yacht Club, Hashmasks, Gutter Cat Gang and many more NFT collections.
+* [Rarity Sniffer](http://raritysniffer.com/) - Check the rarity of your favorite NFT collections within a matter of seconds after they have been revealed using RaritySniffer!
+* [Value.app](https://value.app/) - Track the value of any NFT portfolio in real time.
+
+# Other
+* [CryptoTrader.Tax](https://cryptotrader.tax/) - Cryptocurrency tax software built to save you time and maximize your refund.
+* [Earnifi](https://earni.fi/) - Earnifi finds you thousands of dollars in airdrops, NFTs, and claimable assets.
+* [Royal.io](https://royal.io/) - Artists and fans co-own music together.
 
 # Prices, charts, market caps, etc
 * [COIN360](https://coin360.com/) - COIN360 is a cryptocurrency and crypto exchange live data aggregator.
@@ -32,19 +60,3 @@ Which ones are people actually paying to use?
 * [Stakers.info](https://stakers.info/) - What's securing your blockchain?
 * [Watcher Guru](https://watcher.guru/) - Watcher Guru gives you unparalleled coverage of automated cryptocurrency whale tracking in real-time.
 * [WhaleStats](https://www.whalestats.com/) - WhaleStats - the top 1000 Ethereum richlist.
-
-# NFT's
-* [icy.tools](https://icy.tools/) - Discover, track, and analyze trending NFTs with real time floor and volume data. Deep dive with historical charts, trend data, and full transaction history.
-* [NFTCalendar](https://nftcalendar.io/) - NFTCalendar is the first release and event calendar for the growing Non-Fungible Token industry.
-* [rarity.tools](https://rarity.tools/) - NFTs ranked and sorted by rarity. See the rarest CryptoPunks, Bored Ape Yacht Club, Hashmasks, Gutter Cat Gang and many more NFT collections.
-* [Rarity Sniffer](http://raritysniffer.com/) - Check the rarity of your favorite NFT collections within a matter of seconds after they have been revealed using RaritySniffer!
-* [Value.app](https://value.app/) - Track the value of any NFT portfolio in real time.
-
-# Dev Tools
-* [Remix](https://remix.ethereum.org/) - Remix IDE allows developing, deploying and administering smart contracts for Ethereum like blockchains.
-* [Solidity documentation](https://docs.soliditylang.org/) - Solidity is an object-oriented, high-level language for implementing smart contracts.
-
-# Other
-* [CryptoTrader.Tax](https://cryptotrader.tax/) - Cryptocurrency tax software built to save you time and maximize your refund.
-* [Earnifi](https://earni.fi/) - Earnifi finds you thousands of dollars in airdrops, NFTs, and claimable assets.
-* [Royal.io](https://royal.io/) - Artists and fans co-own music together.

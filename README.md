@@ -47,7 +47,8 @@ Useful and interesting cryptocurrency websites and resources.
 * [Earnifi](https://earni.fi/) - Earnifi finds you thousands of dollars in airdrops, NFTs, and claimable assets.
 * [Royal.io](https://royal.io/) - Artists and fans co-own music together.
 
-# Prices, charts, market caps, etc
+# Prices, charts, lists, market caps, etc
+* [Chainlist](https://chainlist.org/) - Chainlist is a list of EVM networks. Users can use the information to connect their wallets and Web3 middleware providers to the appropriate Chain ID and Network ID to connect to the correct chain.
 * [COIN360](https://coin360.com/) - COIN360 is a cryptocurrency and crypto exchange live data aggregator.
 * [CoinMarketCap](https://coinmarketcap.com/) - CoinMarketCap is the world's most-referenced price-tracking website for cryptoassets in the rapidly growing cryptocurrency space.
 * [Crypto Bubbles](https://cryptobubbles.net/) - Interactive bubble chart for the TOP 1000 cryptocurrencies.

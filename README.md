@@ -56,6 +56,7 @@ Useful and interesting cryptocurrency websites and resources.
 Which ones are people actually paying to use?
 * [DAOList](https://daolist.fyi/) - Track key metrics of top performing DAOs.
 * [DefiLlama](https://defillama.com/) - DefiLlama is the largest TVL aggregator for DeFi (Decentralized Finance). Our data is fully open-source and maintained by a team of passionate individuals and contributors from hundreds of protocols.
+* [DEX Screener](https://dexscreener.com/) - Realtime price charts and trading history on DEXes across Ethereum, BSC, Polygon, Avalanche, Fantom, Harmony, Cronos, Arbitrum, Optimism and more.
 * [Glassnode](https://glassnode.com/) - Glassnode is a blockchain data and intelligence provider that generates innovative on-chain metrics and tools for digital asset stakeholders.
 * [L2BEAT](https://l2beat.com/) - L2BEAT is an analytics and research website about Ethereum layer two (L2) scaling.
 * [Look Into Bitcoin](https://www.lookintobitcoin.com/) - Learning tools for Bitcoin investing. LookIntoBitcoin provides live Bitcoin charts and information using market cycle and on-chain analysis.

@@ -52,6 +52,7 @@ Useful and interesting cryptocurrency websites and resources.
 * [Chainlist](https://chainlist.org/) - Chainlist is a list of EVM networks. Users can use the information to connect their wallets and Web3 middleware providers to the appropriate Chain ID and Network ID to connect to the correct chain.
 * [COIN360](https://coin360.com/) - COIN360 is a cryptocurrency and crypto exchange live data aggregator.
 * [CoinMarketCap](https://coinmarketcap.com/) - CoinMarketCap is the world's most-referenced price-tracking website for cryptoassets in the rapidly growing cryptocurrency space.
+* [CoinMooner](https://coinmooner.com/) - DeFi Gems, Community-based ratings. Find the best crypto coins, active airdrops and blockchain games!
 * [Crypto Bubbles](https://cryptobubbles.net/) - Interactive bubble chart for the TOP 1000 cryptocurrencies.
 * [CryptoFees.info](https://cryptofees.info) - There's tons of crypto projects.
 Which ones are people actually paying to use?

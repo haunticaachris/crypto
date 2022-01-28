@@ -66,3 +66,6 @@ Which ones are people actually paying to use?
 * [Stakers.info](https://stakers.info/) - What's securing your blockchain?
 * [Watcher Guru](https://watcher.guru/) - Watcher Guru gives you unparalleled coverage of automated cryptocurrency whale tracking in real-time.
 * [WhaleStats](https://www.whalestats.com/) - WhaleStats - the top 1000 Ethereum richlist.
+
+# Security and analysis
+* [StaySAFU](https://www.staysafu.org/) - The SAFU Scanner is the perfect tool to save you precious time by identifying potential scams and highlighting safe tokens.

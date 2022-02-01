@@ -20,6 +20,7 @@ Useful and interesting cryptocurrency websites and resources.
 * [KuCoin](https://www.kucoin.com/) - KuCoin is a secure cryptocurrency exchange that makes it easier to buy, sell, and store cryptocurrencies like BTC, ETH, KCS, SHIB, DOGE, etc.
 
 # News
+* [AMBCrypto](https://ambcrypto.com/) - AMBCrypto was founded in 2018 with a mission to simplify and bring the latest blockchain and cryptocurrency news to our readers.
 * [Bitcoin Magazine](https://bitcoinmagazine.com/) - Bitcoin Magazine is the oldest and most established source of news, information and expert commentary on Bitcoin, its underlying blockchain technology and the industry that has been built up around it.
 * [Bitcoin.com](https://news.bitcoin.com/) - Bitcoin.com news, markets info and education.
 * [Blockworks](https://blockworks.co/) - Blockworks is a financial media brand that delivers breaking news and premium insights about digital assets to millions of investors.

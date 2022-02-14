@@ -31,6 +31,7 @@ Useful and interesting cryptocurrency websites and resources.
 * [CryptoPanic](https://cryptopanic.com/) - CryptoPanic is a news aggregator platform indicating impact on price and market for traders and cryptocurrency enthusiasts.
 * [CryptoPotato](https://cryptopotato.com/) - CryptoPotato is one of the world’s leading information sources for crypto investors.
 * [CryptoSlate](https://cryptoslate.com/) - CryptoSlate is only an informational website that provides news about coins, blockchain companies, blockchain products and blockchain events.
+* [FullyCrypto](https://fullycrypto.com/) - FullyCrypto is the true one-stop-shop for crypto news, reports, and exclusive interviews.
 * [Live Bitcoin News](https://www.livebitcoinnews.com/) - Live Bitcoin News is a global, market leading news portal designed to offer unique, cutting-edge and relevant news and information in the crypto currency space.
 * [Protos](https://protos.com/) - Protos cuts through the noise to provide clear insight, considered expert opinion, and market-moving information as efficiently as possible.
 * [The Block](https://www.theblockcrypto.com/) - The Block is the leading research, analysis and news brand in the digital asset space.

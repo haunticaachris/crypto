@@ -19,6 +19,9 @@ Useful and interesting cryptocurrency websites and resources.
 * [Kraken](https://www.kraken.com/en-us/) - A streamlined bitcoin exchange for newcomers and experts alike.
 * [KuCoin](https://www.kucoin.com/) - KuCoin is a secure cryptocurrency exchange that makes it easier to buy, sell, and store cryptocurrencies like BTC, ETH, KCS, SHIB, DOGE, etc.
 
+# Jobs
+* [CryptoJobs](https://crypto.jobs/) - CryptoJobs is the #1 website for blockchain jobs. 
+
 # News
 * [AMBCrypto](https://ambcrypto.com/) - AMBCrypto was founded in 2018 with a mission to simplify and bring the latest blockchain and cryptocurrency news to our readers.
 * [Bitcoin Magazine](https://bitcoinmagazine.com/) - Bitcoin Magazine is the oldest and most established source of news, information and expert commentary on Bitcoin, its underlying blockchain technology and the industry that has been built up around it.

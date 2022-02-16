@@ -8,6 +8,7 @@ Useful and interesting cryptocurrency websites and resources.
 
 # Dev Tools
 * [Remix](https://remix.ethereum.org/) - Remix IDE allows developing, deploying and administering smart contracts for Ethereum like blockchains.
+* [Slither](https://github.com/crytic/slither) - Slither is a Solidity static analysis framework written in Python 3. It runs a suite of vulnerability detectors, prints visual information about contract details, and provides an API to easily write custom analyses.
 * [solhint](https://protofire.github.io/solhint/) - An open source project for linting Solidity code. This project provides both Security and Style Guide validations.
 * [Solidity documentation](https://docs.soliditylang.org/) - Solidity is an object-oriented, high-level language for implementing smart contracts.
 

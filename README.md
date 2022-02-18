@@ -1,5 +1,9 @@
-# crypto
+# Crypto
 Useful and interesting cryptocurrency websites and resources.
+
+# Blockchain Explorers
+* [Etherscan](https://etherscan.io/) - Etherscan is a Block Explorer and Analytics Platform for Ethereum, a decentralized smart contracts platform.
+* [PolygonScan](https://polygonscan.com/) - Polygon PoS Chain Explorer
 
 # Decentralized exchanges
 * [PancakeSwap](https://pancakeswap.finance/) - PancakeSwap is a decentralized exchange for swapping BEP20 tokens on Binance Smart Chain.

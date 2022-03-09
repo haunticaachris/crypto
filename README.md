@@ -56,6 +56,7 @@ Useful and interesting cryptocurrency websites and resources.
 * [Value.app](https://value.app/) - Track the value of any NFT portfolio in real time.
 
 # Other
+* [Cointelli](https://cointelli.com/) - Simple, accurate crypto tax reporting that won't break the bank.
 * [CryptoTrader.Tax](https://cryptotrader.tax/) - Cryptocurrency tax software built to save you time and maximize your refund.
 * [Earnifi](https://earni.fi/) - Earnifi finds you thousands of dollars in airdrops, NFTs, and claimable assets.
 * [Royal.io](https://royal.io/) - Artists and fans co-own music together.

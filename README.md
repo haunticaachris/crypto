@@ -2,6 +2,7 @@
 Useful and interesting cryptocurrency websites and resources.
 
 # Blockchain Explorers
+* [BscScan](https://www.bscscan.com/) - BscScan allows you to explore and search the Binance blockchain for transactions, addresses, tokens, prices and other activities taking place on Binance.
 * [Etherscan](https://etherscan.io/) - Etherscan is a Block Explorer and Analytics Platform for Ethereum, a decentralized smart contracts platform.
 * [PolygonScan](https://polygonscan.com/) - Polygon PoS Chain Explorer
 

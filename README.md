@@ -71,6 +71,7 @@ Useful and interesting cryptocurrency websites and resources.
 * [CryptoFees.info](https://cryptofees.info) - There's tons of crypto projects.
 Which ones are people actually paying to use?
 * [DAOList](https://daolist.fyi/) - Track key metrics of top performing DAOs.
+* [DappRadar](https://dappradar.com/) - Discover, Track & Trade Everything DeFi, NFT and Gaming
 * [DefiLlama](https://defillama.com/) - DefiLlama is the largest TVL aggregator for DeFi (Decentralized Finance). Our data is fully open-source and maintained by a team of passionate individuals and contributors from hundreds of protocols.
 * [DEX Screener](https://dexscreener.com/) - Realtime price charts and trading history on DEXes across Ethereum, BSC, Polygon, Avalanche, Fantom, Harmony, Cronos, Arbitrum, Optimism and more.
 * [ETH Gas Station](https://ethgasstation.info/) - ETH Gas Station aims to increase the transparency of gas prices, transaction confirmation times, and miner policies on the Ethereum network.

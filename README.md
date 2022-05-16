@@ -74,9 +74,11 @@ Which ones are people actually paying to use?
 * [DappRadar](https://dappradar.com/) - Discover, Track & Trade Everything DeFi, NFT and Gaming
 * [DefiLlama](https://defillama.com/) - DefiLlama is the largest TVL aggregator for DeFi (Decentralized Finance). Our data is fully open-source and maintained by a team of passionate individuals and contributors from hundreds of protocols.
 * [DEX Screener](https://dexscreener.com/) - Realtime price charts and trading history on DEXes across Ethereum, BSC, Polygon, Avalanche, Fantom, Harmony, Cronos, Arbitrum, Optimism and more.
+* [Dune](https://dune.com/browse/dashboards) - Dune gives you all the tools to query, extract, and visualize vast amounts of data from the blockchain.
 * [ETH Gas Station](https://ethgasstation.info/) - ETH Gas Station aims to increase the transparency of gas prices, transaction confirmation times, and miner policies on the Ethereum network.
 * [Glassnode](https://glassnode.com/) - Glassnode is a blockchain data and intelligence provider that generates innovative on-chain metrics and tools for digital asset stakeholders.
 * [L2BEAT](https://l2beat.com/) - L2BEAT is an analytics and research website about Ethereum layer two (L2) scaling.
+* [L2Fees.info](https://l2fees.info/) - How much does it cost to use Layer-2?
 * [Look Into Bitcoin](https://www.lookintobitcoin.com/) - Learning tools for Bitcoin investing. LookIntoBitcoin provides live Bitcoin charts and information using market cycle and on-chain analysis.
 * [LunarCrush](https://lunarcrush.com/) - LunarCrush collects activity across social media for bitcoin, thousands of altcoins, crypto exchanges, influencers and more, in real-time every single day and distills it all into bitesize, digestible data.
 * [Messari](https://messari.io/) - Gain an edge over the crypto market with professional grade data, tools, and research.

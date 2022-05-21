@@ -49,12 +49,16 @@ Useful and interesting cryptocurrency websites and resources.
 * [The Daily Hodl](https://dailyhodl.com/) - Cryptocurrency news and analysis, covering Bitcoin, Ethereum, Ripple, XRP, altcoins and blockchain technology.
 * [Trustnodes](https://www.trustnodes.com/) - Trustnodes is widely recognized for its high quality reporting on digital finance, trusted to provide accurate, impartial, independent and fair coverage of developments in a fast moving and highly innovative space.
 
-# NFT's
+# NFT
 * [icy.tools](https://icy.tools/) - Discover, track, and analyze trending NFTs with real time floor and volume data. Deep dive with historical charts, trend data, and full transaction history.
 * [NFTCalendar](https://nftcalendar.io/) - NFTCalendar is the first release and event calendar for the growing Non-Fungible Token industry.
 * [rarity.tools](https://rarity.tools/) - NFTs ranked and sorted by rarity. See the rarest CryptoPunks, Bored Ape Yacht Club, Hashmasks, Gutter Cat Gang and many more NFT collections.
 * [Rarity Sniffer](http://raritysniffer.com/) - Check the rarity of your favorite NFT collections within a matter of seconds after they have been revealed using RaritySniffer!
 * [Value.app](https://value.app/) - Track the value of any NFT portfolio in real time.
+
+# NFT Marketplaces
+- [OpenSea](https://opensea.io/) - OpenSea is the world's first and largest NFT marketplace.
+- [Rarible](https://rarible.com/) - Create, sell or collect digital items secured with #blockchain.
 
 # Other
 * [Cointelli](https://cointelli.com/) - Simple, accurate crypto tax reporting that won't break the bank.

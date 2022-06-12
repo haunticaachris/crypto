@@ -29,7 +29,9 @@ Useful and interesting cryptocurrency websites and resources.
 * [KuCoin](https://www.kucoin.com/) - KuCoin is a secure cryptocurrency exchange that makes it easier to buy, sell, and store cryptocurrencies like BTC, ETH, KCS, SHIB, DOGE, etc.
 
 # Jobs
-* [CryptoJobs](https://crypto.jobs/) - CryptoJobs is the #1 website for blockchain jobs. 
+* [CryptoJobs](https://crypto.jobs/) - CryptoJobs is the #1 website for blockchain jobs.
+* [Remote3](https://remote3.co/) - Discover remote Web3 Jobs around the world at companies working on blockchain, smart contract, DeFi, NFT, crypto etc.
+* [Web3 Jobs](https://web3.career/) - Web3 Jobs has Blockchain, Smart Contract, and Crypto Jobs.
 
 # News
 * [AMBCrypto](https://ambcrypto.com/) - AMBCrypto was founded in 2018 with a mission to simplify and bring the latest blockchain and cryptocurrency news to our readers.

@@ -18,6 +18,7 @@ Useful and interesting cryptocurrency websites and resources.
 * [solhint](https://protofire.github.io/solhint/) - An open source project for linting Solidity code. This project provides both Security and Style Guide validations.
 * [Solidity by Example](https://solidity-by-example.org/) - An introduction to Solidity with simple examples.
 * [Solidity documentation](https://docs.soliditylang.org/) - Solidity is an object-oriented, high-level language for implementing smart contracts.
+* [Moralis Development framework](https://moralis.io/) - Moralis provides a single workflow for building high performance dapps. Fully compatible with your favorite web3 tools and services.
 
 # Exchanges
 * [Binance.US](https://www.binance.us/en/home) - Trade over 50 cryptocurrencies with low trading fees.

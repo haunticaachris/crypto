@@ -96,3 +96,6 @@ Which ones are people actually paying to use?
 
 # Security and analysis
 * [StaySAFU](https://www.staysafu.org/) - The SAFU Scanner is the perfect tool to save you precious time by identifying potential scams and highlighting safe tokens.
+
+# Wallets
+* [MetaMask](https://metamask.io/) - MetaMask is the crypto wallet for Defi, Web3 Dapps, and NFTs.

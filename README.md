@@ -51,6 +51,7 @@ Useful and interesting cryptocurrency websites and resources.
 * [Protos](https://protos.com/) - Protos cuts through the noise to provide clear insight, considered expert opinion, and market-moving information as efficiently as possible.
 * [The Block](https://www.theblockcrypto.com/) - The Block is the leading research, analysis and news brand in the digital asset space.
 * [The Daily Hodl](https://dailyhodl.com/) - Cryptocurrency news and analysis, covering Bitcoin, Ethereum, Ripple, XRP, altcoins and blockchain technology.
+* [The Defiant](https://thedefiant.io/) - The Defiant curates, digests, and analyzes all the major developments in decentralized finance, so that you can stay informed and smart about the most cutting-edge and fastest-changing corner of crypto and finance.
 * [Trustnodes](https://www.trustnodes.com/) - Trustnodes is widely recognized for its high quality reporting on digital finance, trusted to provide accurate, impartial, independent and fair coverage of developments in a fast moving and highly innovative space.
 
 # NFT

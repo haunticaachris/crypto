@@ -48,6 +48,7 @@ Useful and interesting cryptocurrency websites and resources.
 * [CryptoSlate](https://cryptoslate.com/) - CryptoSlate is only an informational website that provides news about coins, blockchain companies, blockchain products and blockchain events.
 * [FullyCrypto](https://fullycrypto.com/) - FullyCrypto is the true one-stop-shop for crypto news, reports, and exclusive interviews.
 * [Live Bitcoin News](https://www.livebitcoinnews.com/) - Live Bitcoin News is a global, market leading news portal designed to offer unique, cutting-edge and relevant news and information in the crypto currency space.
+* [NewsBTC](https://www.newsbtc.com/) - NewsBTC is a cryptocurrency news service that covers bitcoin news today, technical analysis & forecasts for bitcoin price and other altcoins.
 * [Protos](https://protos.com/) - Protos cuts through the noise to provide clear insight, considered expert opinion, and market-moving information as efficiently as possible.
 * [The Block](https://www.theblockcrypto.com/) - The Block is the leading research, analysis and news brand in the digital asset space.
 * [The Daily Hodl](https://dailyhodl.com/) - Cryptocurrency news and analysis, covering Bitcoin, Ethereum, Ripple, XRP, altcoins and blockchain technology.

@@ -3,12 +3,17 @@ Useful and interesting cryptocurrency websites and resources.
 
 # Blockchain Explorers
 * [BscScan](https://www.bscscan.com/) - BscScan allows you to explore and search the Binance blockchain for transactions, addresses, tokens, prices and other activities taking place on Binance.
+* [Blockchain.com](https://www.blockchain.com/explorer) - Bitcoin blockchain explorer
 * [Etherscan](https://etherscan.io/) - Etherscan is a Block Explorer and Analytics Platform for Ethereum, a decentralized smart contracts platform.
+* [Optimism](https://optimistic.etherscan.io/) - Optimistic Ethereum Explorer
 * [PolygonScan](https://polygonscan.com/) - Polygon PoS Chain Explorer
+* [Polkadot at Subscan](https://polkadot.subscan.io/) - Polkadot Chain Explorer
+* [Snowtrace](https://snowtrace.io/) - Avalanche Chain Explorer
 
 # Decentralized exchanges
 * [PancakeSwap](https://pancakeswap.finance/) - PancakeSwap is a decentralized exchange for swapping BEP20 tokens on Binance Smart Chain.
 * [SushiSwap](https://sushi.com/) - Swap, earn, stack yields, lend, borrow, leverage all on one decentralized, community driven platform.
+* [SundaeSwap](https://sundaeswap.finance/) - Cardano DEX. A Decentralized Trading Protocol on Cardano. SundaeSwap is a native, scalable decentralized exchange and automated liquidity provision protocol.
 * [Uniswap v3](https://app.uniswap.org/#/swap?chain=mainnet) - Swap, earn, and build on the leading decentralized crypto trading protocol.
 
 # Dev Tools
@@ -101,4 +106,5 @@ Which ones are people actually paying to use?
 * [StaySAFU](https://www.staysafu.org/) - The SAFU Scanner is the perfect tool to save you precious time by identifying potential scams and highlighting safe tokens.
 
 # Wallets
-* [MetaMask](https://metamask.io/) - MetaMask is the crypto wallet for Defi, Web3 Dapps, and NFTs.
+* [MetaMask](https://metamask.io/) - MetaMask is the crypto wallet for DeFi, Web3 Dapps, and NFTs.
+* [Trust Wallet](https://trustwallet.com/) - Just another wallet for DeFi, Web3, Dapps and NFT's

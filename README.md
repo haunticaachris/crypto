@@ -17,13 +17,13 @@ Useful and interesting cryptocurrency websites and resources.
 * [Uniswap v3](https://app.uniswap.org/#/swap?chain=mainnet) - Swap, earn, and build on the leading decentralized crypto trading protocol.
 
 # Dev Tools
+* [Moralis Development framework](https://moralis.io/) - Moralis provides a single workflow for building high performance dapps. Fully compatible with your favorite web3 tools and services.
 * [OpenZeppelin](https://www.openzeppelin.com/) - OpenZeppelin provides security products to build, automate, and operate decentralized applications.
 * [Remix](https://remix.ethereum.org/) - Remix IDE allows developing, deploying and administering smart contracts for Ethereum like blockchains.
 * [Slither](https://github.com/crytic/slither) - Slither is a Solidity static analysis framework written in Python 3. It runs a suite of vulnerability detectors, prints visual information about contract details, and provides an API to easily write custom analyses.
 * [solhint](https://protofire.github.io/solhint/) - An open source project for linting Solidity code. This project provides both Security and Style Guide validations.
 * [Solidity by Example](https://solidity-by-example.org/) - An introduction to Solidity with simple examples.
 * [Solidity documentation](https://docs.soliditylang.org/) - Solidity is an object-oriented, high-level language for implementing smart contracts.
-* [Moralis Development framework](https://moralis.io/) - Moralis provides a single workflow for building high performance dapps. Fully compatible with your favorite web3 tools and services.
 
 # Exchanges
 * [Binance.US](https://www.binance.us/en/home) - Trade over 50 cryptocurrencies with low trading fees.
@@ -72,8 +72,6 @@ Useful and interesting cryptocurrency websites and resources.
 - [Rarible](https://rarible.com/) - Create, sell or collect digital items secured with #blockchain.
 
 # Other
-* [Cointelli](https://cointelli.com/) - Simple, accurate crypto tax reporting that won't break the bank.
-* [CryptoTrader.Tax](https://cryptotrader.tax/) - Cryptocurrency tax software built to save you time and maximize your refund.
 * [Earnifi](https://earni.fi/) - Earnifi finds you thousands of dollars in airdrops, NFTs, and claimable assets.
 * [Royal.io](https://royal.io/) - Artists and fans co-own music together.
 
@@ -104,6 +102,11 @@ Which ones are people actually paying to use?
 
 # Security and analysis
 * [StaySAFU](https://www.staysafu.org/) - The SAFU Scanner is the perfect tool to save you precious time by identifying potential scams and highlighting safe tokens.
+
+# Tax
+* [Cointelli](https://cointelli.com/) - Simple, accurate crypto tax reporting that won't break the bank.
+* [CryptoTrader.Tax](https://cryptotrader.tax/) - Cryptocurrency tax software built to save you time and maximize your refund.
+* [RP2](https://github.com/eprbell/rp2) - An open-source, privacy-focused, free, non-commercial crypto tax calculator.
 
 # Wallets
 * [MetaMask](https://metamask.io/) - MetaMask is the crypto wallet for DeFi, Web3 Dapps, and NFTs.
